@@ -4,21 +4,295 @@ title: Calendar
 uid: c9732085-1f39-4ef2-dcfe-6081c6515f65
 ---
 
-| CLASS # | READINGS / ACTIVITY | HOMEWORK |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} *   Introduction to Course{{< br >}}*   Writing as Process{{< br >}}*   Rhetorical Differences Across Cultures{{< br >}}*   Academic Language{{< br >}}*   In-class writing: Favorite piece of music/song {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Read "Impulse to Travel"{{< br >}}*   Buy portfolios, texts {{< br >}}{{< br >}}  |
-| 2 |  {{< br >}}{{< br >}} *   Discuss "Impulse to Travel"{{< br >}}*   Descriptive language p. 24 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Write one page on "Comfort Food"{{< br >}}*   Read "My Inner Shrimp" {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} *   **Comfort Food due in class**{{< br >}}*   Discuss "My Inner Shrimp"{{< br >}}*   Sentence variety: Coordination and Subordination{{< br >}}*   Punctuation: Commas {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Read "Wait, You're Not Chinese?" and "In Bed"{{< br >}}*   Buy non-fiction book{{< br >}}*   WW 1-2 sentences {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} *   **WW 1-2 sentences due in class**{{< br >}}*   Declare book choices{{< br >}}*   Return "Comfort Food"{{< br >}}*   Grammar/Mechanical Issues from your papers {{< br >}}{{< br >}}  |  |
-| 5 |  {{< br >}}{{< br >}} *   Return "Comfort Food"{{< br >}}*   Pre-writing: Personal Essay {{< br >}}{{< br >}}  |  |
-| 6 |  {{< br >}}{{< br >}} *   **Personal Essay due in class**{{< br >}}*   Begin Critical Review: purpose, goals{{< br >}}*   Brainstorm in class {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Read student review in course packet, "Lives on the Fringes" {{< br >}}{{< br >}}  |
-| 7 |  {{< br >}}{{< br >}} *   Discuss "Lives on the Fringes"{{< br >}}*   Writing summaries: Verb tenses {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Read 30 pp. of your book{{< br >}}*   Write one-paragraph summary and one-paragraph reaction: What are the books strengths, weakness, so far?{{< br >}}*   WW 3-4 sentences {{< br >}}{{< br >}}  |
-| 8 |  {{< br >}}{{< br >}} *   **Summary and reaction paper due in class**{{< br >}}*   **WW 3-4 Sentences due in class** {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Read "Physical Presence" in course packet and do task on p. 34{{< br >}}*   Read in RFW on quoting, pp. 302-309; 402-408{{< br >}}*   **Bring non-fiction book to class** {{< br >}}{{< br >}}  |
-| 9 |  {{< br >}}{{< br >}} *   Quoting from sources{{< br >}}*   In-class exercise on quoting {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Read 70 pp. of your book{{< br >}}*   Mark sections with post-its{{< br >}}*   Write one critique paragraph: Focus on an aspect of the book, write a topic sentence, and develop the paragraph using a quote or other specific evidence. {{< br >}}{{< br >}}  |
-| 10 |  {{< br >}}{{< br >}} *   **Critique paragraphs due in class** {{< br >}}{{< br >}}  |  |
-| 11 |  {{< br >}}{{< br >}} *   **WW 1-4 Quiz**{{< br >}}*   Outlining critical review{{< br >}}*   Writing Introductions and Conclusions {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Finish your book{{< br >}}*   WW 5-6 sentences {{< br >}}{{< br >}}  |
-| 12 |  {{< br >}}{{< br >}} *   **WW 5-6 sentences due in class** {{< br >}}{{< br >}}  |  |
-| 13 |  {{< br >}}{{< br >}} *   **Critical Review due in class**{{< br >}}*   Begin Position Paper/Argument {{< br >}}{{< br >}}  |  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+CLASS #
+{{< thclose >}}
+{{< thopen >}}
+READINGS / ACTIVITY
+{{< thclose >}}
+{{< thopen >}}
+HOMEWORK
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Introduction to Course
+*   Writing as Process
+*   Rhetorical Differences Across Cultures
+*   Academic Language
+*   In-class writing: Favorite piece of music/song
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Read "Impulse to Travel"
+*   Buy portfolios, texts
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Discuss "Impulse to Travel"
+*   Descriptive language p. 24
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Write one page on "Comfort Food"
+*   Read "My Inner Shrimp"
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   **Comfort Food due in class**
+*   Discuss "My Inner Shrimp"
+*   Sentence variety: Coordination and Subordination
+*   Punctuation: Commas
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Read "Wait, You're Not Chinese?" and "In Bed"
+*   Buy non-fiction book
+*   WW 1-2 sentences
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   **WW 1-2 sentences due in class**
+*   Declare book choices
+*   Return "Comfort Food"
+*   Grammar/Mechanical Issues from your papers
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Return "Comfort Food"
+*   Pre-writing: Personal Essay
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   **Personal Essay due in class**
+*   Begin Critical Review: purpose, goals
+*   Brainstorm in class
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Read student review in course packet, "Lives on the Fringes"
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Discuss "Lives on the Fringes"
+*   Writing summaries: Verb tenses
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Read 30 pp. of your book
+*   Write one-paragraph summary and one-paragraph reaction: What are the books strengths, weakness, so far?
+*   WW 3-4 sentences
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   **Summary and reaction paper due in class**
+*   **WW 3-4 Sentences due in class**
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Read "Physical Presence" in course packet and do task on p. 34
+*   Read in RFW on quoting, pp. 302-309; 402-408
+*   **Bring non-fiction book to class**
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Quoting from sources
+*   In-class exercise on quoting
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Read 70 pp. of your book
+*   Mark sections with post-its
+*   Write one critique paragraph: Focus on an aspect of the book, write a topic sentence, and develop the paragraph using a quote or other specific evidence.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   **Critique paragraphs due in class**
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   **WW 1-4 Quiz**
+*   Outlining critical review
+*   Writing Introductions and Conclusions
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Finish your book
+*   WW 5-6 sentences
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   **WW 5-6 sentences due in class**
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   **Critical Review due in class**
+*   Begin Position Paper/Argument
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 WW: Richek, Margaret Ann. _World of Words: Vocabulary for College Students_. 5th ed. Boston: Houghton Mifflin, 1999. (Do not use an earlier edition.)
 
